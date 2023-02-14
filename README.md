@@ -1,7 +1,7 @@
-<h1 align="center"> Treine.me </h1>
+<h1 align="center"> Segurança Rocket </h1>
 
 <p align="center">
-Desafio para correção de bugs no Stage 02 segundo projeto. <br/>
+Desafio para criar layout no Stage 02 segundo projeto. <br/>
 <a href="https://www.rocketseat.com.br/explorer">Estude esse projeto no módulo Explorer.</a>
 </p>
 
@@ -14,7 +14,7 @@ Desafio para correção de bugs no Stage 02 segundo projeto. <br/>
 <br>
 
 <p align="center">
-  <img alt="Projeto Página Web para Personal Trainer" src="./images/img.png" width="100%">
+  <img alt="Projeto Página Web para Personal Trainer" src="./images/img.svg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -29,11 +29,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Explorer é o programa mais completo de formação da Rocketseat onde você desenvolve as habilidades técnicas e comportamentais pra decolar na carreira de dev.
 
-- [Acesse o projeto finalizado, online](https://jakunzler.github.io/explorer_stage02_projeto02/)
+- [Acesse o projeto finalizado, online](https://jakunzler.github.io/explorer_stage02_projeto02_extra/)
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/rkDOHGPwwFtBNqEdHSuQPd/Projeto-02---Explorer?node-id=0%3A1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/EehZWyXfZfUPftSYHkAvnH/Explorer-(Copy)?t=9tz9F11sxM1bWc2u-6). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ---
 
